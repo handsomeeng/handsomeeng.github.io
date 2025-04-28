@@ -22,12 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Changxiu Song"
-  pronouns         : "her"  
+  avatar           : "https://github.com/handsomeeng/handsomeeng.github.io/raw/master/image/profile.png"
+  name             : "Changxiu Song" 
   bio              : "南开大学 | 密码科学与技术 | 大三本科生"
   location         : "Tianjing"
-  employer         : ""
   uri              : # URL
   email            : "ssongcx@163.com" 
 
